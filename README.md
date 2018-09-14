@@ -11,7 +11,7 @@
 ## ブランチの指針
 `master:` 何であれ動作する状態のものを格納します。  
 `feature/FOOBAR:` FOOBAR にあたる機能の開発をするブランチとして使います。  
-基本的にはフィーチャーブランチ(feature/FOOBAR)で開発して、 Pull Request を作成し、田中によってレビューした上で、 `master` にマージがされるという流れにします。
+基本的にはフィーチャーブランチ(feature/FOOBAR)で開発して、 Pull Request を作成し、KazeHayaRによってレビューした上で、 `master` にマージがされるという流れにします。
 
 
 ## 実装の指針
